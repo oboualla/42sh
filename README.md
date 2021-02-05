@@ -15,7 +15,7 @@
 - [x] Management of internal shell variables `set`, `export`, `unset` and temporary variable.
 - [x] Job control management, with built-ins jobs, fg, bg and the operator &.
 
-## Optional feature (five of theses are mandatory to validate the project):
+## Optional feature :
 - [x] Inhibitors `"`, `'`and `\`.
 - [x] Advanced redirections: aggregation of file output and heredoc `<<`.
 - [x] Backquotes \`.
